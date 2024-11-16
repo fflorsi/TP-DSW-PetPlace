@@ -5,7 +5,9 @@
 ## 🌐 Repositorios
 
 - [Repositorio Backend](https://github.com/fflorsi/Backend-DesarrolloDeSoftware)
+  - **Branch creada a partir del initial commit**: [#1](https://github.com/fflorsi/Backend-DesarrolloDeSoftware/pull/1)
 - [Repositorio Frontend](https://github.com/fflorsi/Frontend-DesarolloDeSoftware)
+  - **Branch creada a partir del initial commit**: [#1](https://github.com/fflorsi/Frontend-DesarrolloDeSoftware/pull/1)
 
 ## 🎥 Video de Presentación
 
@@ -22,4 +24,4 @@
 | Larroquette, Juan Bautista | 50364  |
 | Munne, Facundo             | 50361  |
 
----
+
