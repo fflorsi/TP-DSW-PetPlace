@@ -482,3 +482,4 @@ Ran all test suites.
 
 ## Test end-to-end en el Frontend
 
+![Test end-to-end](./img/image.png)
