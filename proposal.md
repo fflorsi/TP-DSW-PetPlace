@@ -24,7 +24,6 @@ El sistema consiste en una aplicación web para gestionar de manera eficiente la
 
 ## Alcance Funcional 
 
-### Alcance Mínimo
 
 
 |Req|Detalle|
