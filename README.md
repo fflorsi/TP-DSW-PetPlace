@@ -34,3 +34,5 @@
 [Ver minutas de reunión](./minutes-of-meetings-and-progress.md)
 
 [Ver minutas de features y bugfixes](./features-bugfixes-report.md)
+
+[Ver tests](./tests.md)
