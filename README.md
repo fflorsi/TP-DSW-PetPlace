@@ -35,4 +35,4 @@
 
 [Ver minutas de features y bugfixes](./features-bugfixes-report.md)
 
-[Ver tests](./tests.md)
+[Ver tests](./test.md)
