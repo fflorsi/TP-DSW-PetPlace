@@ -25,3 +25,12 @@
 | Munne, Facundo             | 50361  |
 
 
+## Documentación
+
+[Ver proposal](./proposal.md)
+
+[Ver documentación de la API](./openapi.yaml)
+
+[Ver minutas de reunión](./minutes-of-meetings-and-progress.md)
+
+[Ver minutas de features y bugfixes](./features-bugfixes-report.md)
