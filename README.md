@@ -24,15 +24,11 @@
 | Larroquette, Juan Bautista | 50364  |
 | Munne, Facundo             | 50361  |
 
+## 📑 Documentación
 
-## Documentación
+- 📜 **Proposal**: [Ver aquí](./proposal.md)  
+- 📄 **Documentación de la API**: [Ver aquí](./openapi.yaml)  
+- 📝 **Minutas de reunión**: [Ver aquí](./minutes-of-meetings-and-progress.md)  
+- 🛠 **Minutas de features y bugfixes**: [Ver aquí](./features-bugfixes-report.md)  
+- ✅ **Tests**: [Ver aquí](./test.md)  
 
-[Ver proposal](./proposal.md)
-
-[Ver documentación de la API](./openapi.yaml)
-
-[Ver minutas de reunión](./minutes-of-meetings-and-progress.md)
-
-[Ver minutas de features y bugfixes](./features-bugfixes-report.md)
-
-[Ver tests](./test.md)
