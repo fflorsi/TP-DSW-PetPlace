@@ -1,7 +1,7 @@
 # Test
 
 
-##Test Unitarios y de Integración del Backend
+## Test Unitarios y de Integración del Backend
 
 
  RUNS  src/tests/integration.test.ts
@@ -465,7 +465,7 @@ Time:        12.101 s, estimated 15 s
 Ran all test suites.                                                                                                                                      
  
 
-##Test unitario de Componente en el Frontend
+## Test unitario de Componente en el Frontend
 
 
 4 specs, 0 failures, randomized with seed  [14444](http://localhost:9876/context.html?seed=14444 "randomized with seed 14444")
@@ -480,5 +480,5 @@ Ran all test suites.
 
 -   [should call signInWithClient and navigate on successful sign-up](http://localhost:9876/context.html?spec=SignInComponent%20should%20call%20signInWithClient%20and%20navigate%20on%20successful%20sign-up)
 
-##Test end-to-end en el Frontend
+## Test end-to-end en el Frontend
 
