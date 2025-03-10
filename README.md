@@ -32,3 +32,32 @@
 - 🛠 **Minutas de features y bugfixes**: [Ver aquí](./features-bugfixes-report.md)  
 - ✅ **Tests**: [Ver aquí](./test.md)  
 
+
+## 🔐 Credenciales de Prueba
+
+Estas credenciales pueden usarse para probar el inicio de sesión en **PetPlace**.
+
+
+### 🛠 Administrador  
+- **Correo**: `admin`  
+- **Contraseña**: `admin123`
+
+### 🏥 Profesional  
+- **Correo**: `jfernandez@gmail.com`  
+- **Contraseña**: `dRULjqsZ`  
+
+### 🐾 Cliente  
+- **Correo**: `Gero14`  
+- **Contraseña**: `Gero2004`  
+
+
+---
+
+## 💳 Tarjeta para Pago Aprobado  
+
+- **Número**: `5031 7557 3453 0604`  
+- **Código de Seguridad**: `123`  
+- **Fecha de Expiración**: `11/30`  
+- **Nombre en la Tarjeta**: `APRO`  
+- **DNI**: `12345678`  
+
