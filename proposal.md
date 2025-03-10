@@ -29,10 +29,10 @@ El sistema consiste en una aplicación web para gestionar de manera eficiente la
 
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Cliente<br>2. CRUD Profesional<br>3. CRUD Servicio<br>4. CRUD Vacuna<br>5. Producto<br>6. Tipo|
+|CRUD simple|1. CRUD Cliente<br>2. CRUD Profesional<br>3. CRUD Servicio<br>4. CRUD Vacuna<br>5. CRUD Producto<br>6. CRUD Tipo|
 |CRUD dependiente|1. CRUD Mascota {depende de} CRUD Cliente<br>2. CRUD Historia Clinica {depende de} CRUD Mascota<br>|
 |Listado<br>+<br>detalle| 1. Listado de clientes filtrado por nombre de cliente, apellido y DNI, muestra nombre, apellido, DNI, teléfono, mail, dirección, fecha de nacimiento => detalle CRUD Cliente<br> 2. Listado de servicios filtrado por nombre del servicio, muestra nombre del servicio, descripción y precio => detalle CRUD Servicio<br>3. Listado de servicios filtrado por nombre del servicio, muestra nombre del servicio, descripción,precio y acciones => detalle CRUD Servicio|
 |CUU/Epic|1. Solicitar turno para mascota<br>2. Registrar Observacion despues de consulta<br>3. Realizar un pedido en la tienda|
-
+|Niveles de acceso|1. Administrador<br>2. Cliente<br>3. Profesional|
 
 
