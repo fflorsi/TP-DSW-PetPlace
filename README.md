@@ -33,31 +33,28 @@
 - ✅ **Tests**: [Ver aquí](./test.md)  
 
 
-## 🔐 Credenciales de Prueba
+# 🔐 Credenciales de Prueba
 
-Estas credenciales pueden usarse para probar el inicio de sesión en **PetPlace**.
+Estas credenciales pueden usarse para probar el inicio de sesión en **PetPlace**.  
 
+## 👥 Usuarios de Prueba
 
-### 🛠 Administrador  
-- **Correo**: `admin`  
-- **Contraseña**: `admin123`
-
-### 🏥 Profesional  
-- **Correo**: `jfernandez@gmail.com`  
-- **Contraseña**: `dRULjqsZ`  
-
-### 🐾 Cliente  
-- **Correo**: `Gero14`  
-- **Contraseña**: `Gero2004`  
-
+| Rol           | Correo / Usuario       | Contraseña  |
+|--------------|----------------------|-------------|
+| 🛠 **Administrador** | `admin`               | `admin123`  |
+| 🏥 **Profesional**  | `jfernandez@gmail.com` | `dRULjqsZ`  |
+| 🐾 **Cliente**      | `Gero14`               | `Gero2004`  |
 
 ---
 
 ## 💳 Tarjeta para Pago Aprobado  
 
-- **Número**: `5031 7557 3453 0604`  
-- **Código de Seguridad**: `123`  
-- **Fecha de Expiración**: `11/30`  
-- **Nombre en la Tarjeta**: `APRO`  
-- **DNI**: `12345678`  
+| 🔢 **Número de Tarjeta** | `5031 7557 3453 0604` |
+|-------------------------|----------------------|
+| 🔐 **Código de Seguridad** | `123` |
+| 📅 **Fecha de Expiración** | `11/30` |
+| ✍️ **Nombre en la Tarjeta** | `APRO` |
+| 🆔 **DNI** | `12345678` |
+
+---
 
