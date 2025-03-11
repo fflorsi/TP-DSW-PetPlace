@@ -42,8 +42,8 @@ Estas credenciales pueden usarse para probar el inicio de sesión en **PetPlace*
 | Rol           | Correo / Usuario       | Contraseña  |
 |--------------|----------------------|-------------|
 | 🛠 **Administrador** | `admin`               | `admin123`  |
-| 🏥 **Profesional**  | `jfernandez@gmail.com` | `dRULjqsZ`  |
-| 🐾 **Cliente**      | `Gero14`               | `Gero2004`  |
+| 🏥 **Profesional**  | `roberto.fernandez@veterinaria.com` | `Zr4rKq2i`  |
+| 🐾 **Cliente**      | `FlorsiDeg`               | `Flor123`  |
 
 ---
 
